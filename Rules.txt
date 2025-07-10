@@ -1,0 +1,49 @@
+<<<<<<< HEAD
+Custom Rules for Game of Life
+
+Rule 1: Underpopulation
+If a cell is alive and has fewer than 2 neighbors, it dies due to underpopulation (subject to Rule 7)
+
+Rule 2: Overpopulation
+If a cell is alive and has more than 3 neighbors, it dies due to overpopulation (subject to Rule 7)
+
+Rule 3: Survival
+If a cell is alive and has 2 or 3 neighbors, it stays alive
+
+Rule 4: Reproduction
+If a cell is dead and has exactly 3 neighbors, it becomes alive
+
+Rule 5: Revival by Aging
+If a cell is dead and has been dead for exactly 6 generations, it becomes alive regardless of neighbors
+
+Rule 6: Random Resurrection
+For every 4 generations, one random dead cell becomes alive
+
+Rule 7: No Repeat Death
+A cell’s two successive death events should not share the same cause (Underpopulation/Overpopulation), no matter how many generations pass in between
+
+=======
+Custom Rules for Game of Life
+
+Rule 1: Underpopulation
+If a cell is alive and has fewer than 2 neighbors, it dies due to underpopulation (subject to Rule 7)
+
+Rule 2: Overpopulation
+If a cell is alive and has more than 3 neighbors, it dies due to overpopulation (subject to Rule 7)
+
+Rule 3: Survival
+If a cell is alive and has 2 or 3 neighbors, it stays alive
+
+Rule 4: Reproduction
+If a cell is dead and has exactly 3 neighbors, it becomes alive
+
+Rule 5: Revival by Aging
+If a cell is dead and has been dead for exactly 6 generations, it becomes alive regardless of neighbors
+
+Rule 6: Random Resurrection
+For every 4 generations, one random dead cell becomes alive
+
+Rule 7: No Repeat Death
+A cell’s two successive death events should not share the same cause (Underpopulation/Overpopulation), no matter how many generations pass in between
+
+>>>>>>> 4210afd6a713a21ba395c6f7a1b846cd70240fac
