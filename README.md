@@ -12,7 +12,7 @@ A Python implementation of Conway's Game of Life on a hexagonal grid, extended w
 4. [Theory](#theory)
 5. [Visualization](#visualization)
 6. [File Structure](#file-structure)
-7. [Contributing](#contributing)
+7. [Contributions](#contributions)
 8. [License](#license)
 
 ---
