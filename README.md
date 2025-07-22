@@ -26,7 +26,7 @@ This project implements a variant of Conway's Game of Life on a **hexagonal grid
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/its-adityagoyal/Game-of-Life-HexagonalGrid.git
+   git clone https://github.com/mannate14/GameOfLife.git
    cd Game-of-Life-HexagonalGrid
    ```
 
@@ -88,7 +88,7 @@ Below are sample frames from the simulation:
 ## File Structure
 
 ```
-Game-of-Life-HexagonalGrid/
+GameOfLife/
 ├── main.py           # Main simulation script
 ├── requirements.txt  # Pinned dependencies
 ├── rules.txt         # Custom rules 
